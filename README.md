@@ -32,8 +32,8 @@ Mobile design
 
 ### Links
 
-- Solution URL: [Single price grid component solution]()
-- Live Site URL: [Add live site URL here]()
+- Solution URL: [Single price grid component solution](https://www.frontendmentor.io/solutions/single-price-grid-component-solution-myaKt1zmkI)
+- Live Site URL: [Add live site URL here](https://jpbyte.github.io/single-price-grid-component-master/)
 
 ## My process
 
@@ -41,4 +41,4 @@ Mobile design
 
 - Semantic HTML5 markup
 - CSS
-- SCSS
+- SASS/SCSS
